@@ -1,0 +1,58 @@
+{
+    "en": {
+        "loginWelcome": "Welcome BACK2U!",
+        "loginSubtitle":"Sign in by entering the information below",
+        "mail":"Mail address",
+        "mailPlaceHolder":"Enter Mail",
+        "invalidEmailMessage":"Invalid email",
+        "passwordText":"Password",
+        "passwordPlaceHolder":"Enter Password",
+        "passwordAtleastEightCharacters":"Your password must be at least 8 characters long",
+        "requiredMessage":"Required",
+        "SignInusingEmailOTP":"Sign in using Email OTP",
+        "forgetPasswordText":"Forget password?",
+        "loginText":"Login"
+    },
+    "es": {
+        "loginWelcome": "Bienvenido BACK2U!",
+        "loginSubtitle":"Inicia sesión ingresando la información a continuación",
+        "mail":"dirección de correo",
+        "mailPlaceHolder":"Ingresar correo",
+        "invalidEmailMessage":"Correo electrónico no válido",
+        "passwordText":"Contraseña",
+        "passwordPlaceHolder":"Ingrese la contraseña",
+        "passwordAtleastEightCharacters":"Su contraseña debe tener al menos 8 caracteres",
+        "requiredMessage":"Requerida",
+        "SignInusingEmailOTP":"Iniciar sesión usando OTP de correo electrónico",
+        "forgetPasswordText":"¿Olvidaste tu contraseña?",
+        "loginText":"acceso"
+    },
+    "fr": {
+        "loginWelcome": "Bienvenue BACK2U!",
+        "loginSubtitle":"Connectez-vous en saisissant les informations ci-dessous",
+        "mail":"Adresse mail",
+        "mailPlaceHolder":"Entrez le courrier",
+        "invalidEmailMessage":"E-mail invalide",
+        "passwordText":"Mot de passe",
+        "passwordPlaceHolder":"Entrez le mot de passe",
+        "passwordAtleastEightCharacters":"Votre mot de passe doit comporter au moins 8 caractères.",
+        "requiredMessage":"Requis",
+        "SignInusingEmailOTP":"Connectez-vous en utilisant Email OTP",
+        "forgetPasswordText":"Mot de passe oublié ?",
+        "loginText":"se connecter"
+    },
+    "pt": {
+        "loginWelcome": "Bem-vindo BACK2U!",
+        "loginSubtitle":"Faça login inserindo as informações abaixo",
+        "mail":"Endereço de correio",
+        "mailPlaceHolder":"Digite o e-mail",
+        "invalidEmailMessage":"E-mail inválido",
+        "passwordText":"Senha",
+        "passwordPlaceHolder":"Digite a senha",
+        "requiredMessage":"Obrigatória",
+        "passwordAtleastEightCharacters":"Sua senha deve ter pelo menos 8 caracteres",
+        "SignInusingEmailOTP":"Faça login usando e-mail OTP",
+        "forgetPasswordText":"Esqueceu a senha?",
+        "loginText":"Conecte-se"
+    }
+}

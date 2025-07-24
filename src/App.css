@@ -1,0 +1,120 @@
+body {
+  background-color: #FAFCFF;
+}
+
+.login-background-img{
+  background-image: url("./assets/login_page_bg_img.png");
+  max-width: 100vw;
+  min-height: 100vh;
+}
+.login-info {
+  background-color: #fff;
+  min-height: 100vh;
+}
+.welcome-font {
+  font-weight: 700 !important;
+  font-size: 20px !important;
+  color: #0067F2;
+  margin-top: 46px !important;
+}
+.sign-in-text{
+  margin: 10px 0px;
+  color: #897f7f !important;
+  font-weight: 600 !important;
+  font-size: 15px;
+}
+.back2u-logo-container {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+}
+.login-content-container {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.login-input>input[type="text"],.login-input>input[type="password"]{
+  background-color: #F8F8F8;
+}
+.input-container{
+  padding: 10px 65px;
+}
+.signIn-forget-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 65px;
+}
+a {
+  text-decoration: none;
+  color: #0067F2 !important;
+  font-weight: 600 !important;
+  font-size: 15px;
+}
+.login-btn {
+  margin-top: 3rem !important;
+  border-radius: 3px !important;
+  padding: .7rem 0 !important;
+  min-width: 100% !important;
+  font-size: medium !important;
+  background-color: #0067F2 !important;
+  color: #fff !important;
+  border: none !important;
+}
+
+.login-btn:hover{
+  cursor: pointer;
+}
+
+.error-message {
+  color: red !important;
+}
+
+/* sidebar */
+/* .sidebar-heading {
+  position: relative;
+}
+
+.sidebar-heading::after {
+  content: '';
+  display: block;
+  width: 90%;
+  height: 2px;
+  background-color: #00000029;
+  position: absolute;
+  left: 0;
+  top: 30px;
+} */
+
+/* Header */
+
+/* body */
+.CircularProgressbar .CircularProgressbar-path{
+  stroke: #0067F2 !important;
+}
+
+.css-1ygil4i-MuiToolbar-root {
+  max-height: 100px !important;
+}
+
+.css-kgv1kl-MuiListItemIcon-root {
+  min-width: 30px !important;
+}
+
+
+@media (min-width: 1336px){
+  .sidebar-heading {
+    position: relative;
+  }
+  
+  .sidebar-heading::after {
+    content: '';
+    display: block;
+    width: 90%;
+    height: 2px;
+    background-color: #00000029;
+    position: absolute;
+    left: 0;
+    top: 30px;
+  }
+}
+
